@@ -559,7 +559,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LyB0DBEwxZnNxDU6iWii-14" value="Normal Trip" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="392" width="90" height="34" as="geometry" />
+          <mxGeometry x="110" y="392" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="LyB0DBEwxZnNxDU6iWii-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LyB0DBEwxZnNxDU6iWii-15" target="LyB0DBEwxZnNxDU6iWii-13">
           <mxGeometry relative="1" as="geometry" />
@@ -695,11 +695,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LyB0DBEwxZnNxDU6iWii-52" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-269" width="383" height="708" as="geometry" />
-        </mxCell>
-        <mxCell id="LyB0DBEwxZnNxDU6iWii-53" value="EasyReserve" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="256.5" y="-257" width="60" height="30" as="geometry" />
+        <mxCell id="LyB0DBEwxZnNxDU6iWii-54" value="EasyReserve" style="swimlane;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="103" y="-242" width="384" height="693" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
